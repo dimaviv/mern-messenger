@@ -1,0 +1,5 @@
+{
+  "serverPort": 5000,
+  "dbUrl": "mongodb+srv://dimaviv:mongo2132@cluster0.mckcq.mongodb.net/?retryWrites=true&w=majority",
+  "TOKEN_SECRET_KEY": "secretkeysasdfsadfsadasd3124"
+}
